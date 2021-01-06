@@ -1,0 +1,78 @@
+Average elapsed time:0.04352146047833376
+Average Precsion:0.328
+Average elapsed time:0.036028462533187124
+Average Precsion:0.296
+Average elapsed time:0.029852568919863553
+Average Precsion:0.228
+Average elapsed time:0.024040245456574485
+Average Precsion:0.104
+Average elapsed time:0.04983674453906715
+Average Precsion:0.347
+Average elapsed time:0.0410160844522994
+Average Precsion:0.309
+Average elapsed time:0.032839116675779226
+Average Precsion:0.237
+Average elapsed time:0.027566580421105026
+Average Precsion:0.109
+Average elapsed time:0.04238666126024909
+Average Precsion:0.302
+Average elapsed time:0.03455374921397306
+Average Precsion:0.271
+Average elapsed time:0.028531824459135532
+Average Precsion:0.209
+Average elapsed time:0.025637997158197687
+Average Precsion:0.096
+Average elapsed time:0.048544237393001094
+Average Precsion:0.324
+Average elapsed time:0.03814653419735842
+Average Precsion:0.289
+Average elapsed time:0.031084961737459525
+Average Precsion:0.22
+Average elapsed time:0.027384191765962167
+Average Precsion:0.103
+Average elapsed time:0.04832678525252268
+Average Precsion:0.242
+Average elapsed time:0.03895111601399258
+Average Precsion:0.27
+Average elapsed time:0.032375409563630816
+Average Precsion:0.225
+
+
+Average elapsed time:0.04352390846391208
+Average Precsion:0.328
+Average elapsed time:0.035862980605429036
+Average Precsion:0.296
+Average elapsed time:0.029460886389482768
+Average Precsion:0.228
+Average elapsed time:0.024628957045264542
+Average Precsion:0.104
+Average elapsed time:0.04899576336108148
+Average Precsion:0.347
+Average elapsed time:0.04115174598996527
+Average Precsion:0.309
+Average elapsed time:0.0331536572500132
+Average Precsion:0.237
+Average elapsed time:0.026314920578384773
+Average Precsion:0.109
+Average elapsed time:0.04229191361228004
+Average Precsion:0.302
+Average elapsed time:0.034715054803993554
+Average Precsion:0.271
+Average elapsed time:0.02943093016273342
+Average Precsion:0.209
+Average elapsed time:0.023811379400314765
+Average Precsion:0.096
+Average elapsed time:0.04923040500949137
+Average Precsion:0.324
+Average elapsed time:0.04086752152498811
+Average Precsion:0.289
+Average elapsed time:0.03145909761916846
+Average Precsion:0.22
+Average elapsed time:0.02613721654508263
+Average Precsion:0.103
+Average elapsed time:0.04886233689030632
+Average Precsion:0.242
+Average elapsed time:0.0383538166154176
+Average Precsion:0.27
+Average elapsed time:0.03204752110904083
+Average Precsion:0.225

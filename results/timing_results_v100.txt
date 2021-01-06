@@ -1,0 +1,42 @@
+Average elapsed time:0.0339110723218997
+Average Precsion:0.329
+Average elapsed time:0.031967661832342856
+Average Precsion:0.284
+Average elapsed time:0.029718453674699413
+Average Precsion:0.212
+Average elapsed time:0.02765230775642558
+Average Precsion:0.085
+
+Average elapsed time:0.042172895263333336
+Average Precsion:0.344
+Average elapsed time:0.040713329251669345
+Average Precsion:0.295
+Average elapsed time:0.038655954030680006
+Average Precsion:0.218
+Average elapsed time:0.036835651003761447
+Average Precsion:0.087
+
+Average elapsed time:0.03636387494332157
+Average Precsion:0.302
+Average elapsed time:0.03608781060868059
+Average Precsion:0.261
+Average elapsed time:0.03217443581334665
+Average Precsion:0.19
+Average elapsed time:0.031032573600375327
+Average Precsion:0.078
+
+Average elapsed time:0.04666894568731077
+Average Precsion:0.32
+Average elapsed time:0.043786820622236704
+Average Precsion:0.277
+Average elapsed time:0.04085024458808475
+Average Precsion:0.202
+Average elapsed time:0.042206974765349875
+Average Precsion:0.082
+
+Average elapsed time:0.03586436352281598
+Average Precsion:0.257
+Average elapsed time:0.028248804924020078
+Average Precsion:0.29
+Average elapsed time:0.02718945519851986
+Average Precsion:0.248

@@ -1,0 +1,19 @@
+
+Average elapsed time:0.0756338526327163
+Average elapsed time:0.09314541944079101
+Average elapsed time:0.07832238402813672
+Average elapsed time:0.09727208994068205
+Average elapsed time:0.037253628958016635
+Average elapsed time:0.07525131734423339
+Average elapsed time:0.09585560160316527
+Average elapsed time:0.08243387856930494
+Average elapsed time:0.1020348483838141
+Average elapsed time:0.03660181067548692
+Average elapsed time:0.03353764465302229
+Average elapsed time:0.03241693775635213
+Average elapsed time:0.03311530833223369
+Average elapsed time:0.024985661975183756
+Average elapsed time:0.02449203769021551
+Average elapsed time:0.03360700315858703
+Average elapsed time:0.027793788220529678
+Average elapsed time:0.06367013648299034

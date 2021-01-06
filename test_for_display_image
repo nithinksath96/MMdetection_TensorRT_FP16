@@ -1,0 +1,5 @@
+import cv2 as cv
+img = cv.imread("demo.jpg")
+cv.imshow("demo",img)
+cv.waitKey(0)
+
